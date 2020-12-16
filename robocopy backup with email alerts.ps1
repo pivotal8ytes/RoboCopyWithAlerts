@@ -1,4 +1,4 @@
-# PowerShell Robocopy script with e-mail notification
+# PowerShell Robocopy script with an e-mail notification. Andrew Palmer
 
 # Change these values
 $SourceFolder = "E:\DB_Backups"
